@@ -2,7 +2,7 @@
 
 ## 🎯 Project Goal
 
-The project starts with the simplest machine learning model: **Linear Regression**. Once the pipeline is implemented, you can expand to additional model types such as Random Forest, Logistic Regression, or SVM.
+The project starts with the simplest machine learning model: **Linear Regression**. Once the procedure is implemented, you can expand to additional model types such as Random Forest, Logistic Regression, or SVM.
 
 
 Build a FastAPI server that allows:
