@@ -138,6 +138,6 @@ age,salary,rooms,price
 ## 📤 הגשה
 
 יש לשלוח את הפתרון למייל:
-📧 [pythonai170624+FINALSERVER@gmail.com](mailto:pythonai170624+FINALSERVER@gmail.com)
+📧 [pythonai200425+FINALSERVER@gmail.com](mailto:pythonai200425+FINALSERVER@gmail.com)
 
 
