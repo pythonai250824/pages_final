@@ -108,7 +108,7 @@ logging.warning(f"User {username} tried to predict without enough tokens")
 
 ---
 
-## 🎁 BONUS: Use JWT Instead of Username+Password in Requests
+## 🎁 Use JWT Instead of Username+Password in Requests
 
 ### 🔑 `POST /login`
 
